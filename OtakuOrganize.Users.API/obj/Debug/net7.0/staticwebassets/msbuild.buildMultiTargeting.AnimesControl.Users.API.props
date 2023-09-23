@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AnimesControl.Users.API.props" />
+</Project>

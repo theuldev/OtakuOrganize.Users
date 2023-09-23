@@ -1,0 +1,12 @@
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\AnimesControl.Users.Domain.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\AnimesControl.Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\AnimesControl.Users.Domain.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\AnimesControl.Users.Domain.AssemblyInfo.cs
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\AnimesControl.Users.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\AnimesControl.Users.Domain.dll
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\refint\AnimesControl.Users.Domain.dll
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\AnimesControl.Users.Domain.pdb
+c:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\bin\Debug\net7.0\AnimesControl.Users.Domain.deps.json
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\bin\Debug\net7.0\AnimesControl.Users.Domain.dll
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\bin\Debug\net7.0\AnimesControl.Users.Domain.pdb
+c:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Domain\obj\Debug\net7.0\ref\AnimesControl.Users.Domain.dll

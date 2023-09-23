@@ -1,0 +1,12 @@
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\AnimesControl.Users.Infra.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\AnimesControl.Users.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\AnimesControl.Users.Infra.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\AnimesControl.Users.Infra.AssemblyInfo.cs
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\AnimesControl.Users.Infra.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\AnimesControl.Users.Infra.dll
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\refint\AnimesControl.Users.Infra.dll
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\AnimesControl.Users.Infra.pdb
+c:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\bin\Debug\net7.0\AnimesControl.Users.Infra.deps.json
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\bin\Debug\net7.0\AnimesControl.Users.Infra.dll
+C:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\bin\Debug\net7.0\AnimesControl.Users.Infra.pdb
+c:\Users\mathe\source\repos\AnimesControl.Users.API\AnimesControl.Users.Infra\obj\Debug\net7.0\ref\AnimesControl.Users.Infra.dll

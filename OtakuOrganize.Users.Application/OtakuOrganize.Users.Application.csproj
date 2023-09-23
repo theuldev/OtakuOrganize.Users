@@ -1,0 +1,25 @@
+﻿ <Project Sdk="Microsoft.NET.Sdk">
+
+	<ItemGroup>
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+		<PackageReference Include="FluentValidation" Version="11.7.0" />
+		<PackageReference Include="MediatR" Version="12.1.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
+		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.24.0" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.24.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\OtakuOrganize.Users.Domain\OtakuOrganize.Users.Domain.csproj" />
+		<ProjectReference Include="..\OtakuOrganize.Users.Infra\OtakuOrganize.Users.Infra.csproj" />
+	</ItemGroup>
+
+
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+</PropertyGroup>
+
+</Project>

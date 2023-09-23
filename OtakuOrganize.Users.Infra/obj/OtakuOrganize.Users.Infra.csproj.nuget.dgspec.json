@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Infra\\OtakuOrganize.Users.Infra.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Domain\\OtakuOrganize.Users.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Domain\\OtakuOrganize.Users.Domain.csproj",
+        "projectName": "OtakuOrganize.Users.Domain",
+        "projectPath": "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Domain\\OtakuOrganize.Users.Domain.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Infra\\OtakuOrganize.Users.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Infra\\OtakuOrganize.Users.Infra.csproj",
+        "projectName": "OtakuOrganize.Users.Infra",
+        "projectPath": "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Infra\\OtakuOrganize.Users.Infra.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Domain\\OtakuOrganize.Users.Domain.csproj": {
+                "projectPath": "c:\\Users\\mathe\\source\\repos\\OtakuOrganize.Users.API\\OtakuOrganize.Users.Domain\\OtakuOrganize.Users.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.10.9, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
